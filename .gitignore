@@ -123,7 +123,7 @@ Temporary Items
 *.icloud
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,intellij+all
-
+file/
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
